@@ -35,3 +35,12 @@ Working with arrays of data for UFO sightings, to better navigate the findings a
 
 
 ## Summary
+Having a webpage and tool that allows people to search and filter data is a great tool to have available. This webpage helped make UFO sighting data more accessible for others. However, there are some drawbacks and areas that could use some improvement for this webpage. 
+
+**Drawbacks**
+-One obvious drawback is the usability of the ‘Filter Search’ box. All parameters must be typed and are case-sensitive. Unless you know specifically what you are looking for and how to search for it, this tool is not user-friendly. 
+
+**Recommendations**
+-One recommendation would be to utilize a drop-down menu for each parameter, to make UFO sighting searches easier to use and return more accurate results. This can create a lesser chance of human error.
+
+-Another recommendation would be to expand the data set used for UFO sightings. With an established webpage, table, and search box, more data could be imported and included. This could be a longer timeline, more countries, cities, and even a search by keyword. 
